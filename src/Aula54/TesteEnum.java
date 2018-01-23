@@ -2,7 +2,7 @@ package Aula54;
 
 /**
  * Created by Valéria on 23/01/2018. Aulas da Loiane
- * Enums Podem ser utilizados como uma classe
+ * Enums Podem ser utilizados no lugar de classes
  */
 
 public class TesteEnum {
